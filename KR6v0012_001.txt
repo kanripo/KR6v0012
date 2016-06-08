@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:07.547804
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 佛說水月光觀音菩薩經
 #+PROPERTY: CBETA_ID W01n0011
 #+PROPERTY: ID KR6v0012
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 011
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0012_W_001-0349a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 佛說水月光觀音菩薩經¶
 整理者　方廣錩¶
 ¶
 
@@ -30,10 +30,9 @@
 整理本以天津藝術博物館藏本為底本，無校本。¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 佛說水月光觀音菩薩經¶
+佛說水月光觀音菩薩經¶
 ¶
 
 爾時若有比丘、比丘尼、優婆塞、優婆夷、童男、童女，一切識情，¶
@@ -59,9 +58,9 @@
 　南無大悲觀世音，
 　願我速會無為舍。¶
 　南無大悲觀世音，
-　願我已同法性身。
+　願我已同法性身。」
 #+END_VERSE
-」¶
+¶
 
 若值刀山處，刀山自摧鋒。或向火湯裡，火湯雲消滅。若遇地¶
 獄者，地獄或竭枯。或若向餓鬼，餓鬼自飽滿。或向阿修羅，惡心自¶
@@ -76,7 +75,7 @@
 〔錄文完〕¶
 ¶
 
-附：關於《佛說水月光觀音菩薩經》¶
+* 〔附〕關於《佛說水月光觀音菩薩經》¶
 方廣錩¶
 ¶
 
